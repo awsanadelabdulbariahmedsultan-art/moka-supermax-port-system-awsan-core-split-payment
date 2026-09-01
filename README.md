@@ -108,22 +108,35 @@ To ensure absolute immunity against external cyber threats or administrative ove
 ---
 
 ```text
-moka-supermax-port-system/
+moka-supermax-port-system-awsan-core-split-payment/
 │
-├── README.md               # Master System Document (الملخص التنفيذي المركز وخريطة تدفق البيانات)
+├── README.md                   # master system documentation & executive summary
 │
-├── backend/                # Core Python automation scripts & API endpoints (النواة البرمجية للمنظومة)
-│   ├── split_engine.py     # Immutable financial split algorithm 60/40 (خوارزمية الفصل المالي المقفلة)
-│   └── routing.py          # Secure API bridges connecting port customs to SWIFT (جسور الربط البنكي الدولي)
+├── backend/                    # core python automation scripts & api endpoints
+│   ├── routing.py              # secure api bridges connecting port customs to swift
+│   └── split_engine.py         # immutable financial split algorithm 60/40
 │
-├── security/               # Cryptographic identity & verification nodes (أنظمة التحقق والتشفير السيادي)
-│   ├── hsm_auth.py         # Hardware Security Module integration codes (أكواد ربط وحدات الأمان المادية)
-│   └── id_verify.py        # Cryptographic link for National ID 01010305468 (نظام التحقق المرتبط بالرقم الوطني)
+├── security/                   # cryptographic identity & verification nodes
+│   ├── Governance_Anti_Corruption.md  # digital governance and strict anti-fraud policy
+│   ├── IP_Sovereign_Protection.md     # sovereign intellectual property protection framework
+│   ├── UI_UX_Dashboard_Blueprint.md   # transparency interface mockup and blueprint
+│   ├── hsm_auth.py             # hardware security module integration codes
+│   └── id_verify.py            # biometric verification node for national id 01010305468
 │
-└── docs/                   # Sovereign legal documents & strategic frameworks (الملفات القانونية والسيادية)
-    ├── BOT_Agreement.md    # Concession contract with local authorities (عقد بناء الأصول وإعادة الملكية)
-    ├── Economic_Pact.md    # Neutrality agreement with military/political factions (ميثاق التحييد الاقتصادي)
-    └── MoU_Global.md       # Technical EPC memorandum with international partners (مذكرة التفاهم الدولية)
+└── docs/                       # sovereign legal documents & strategic frameworks
+    ├── Action_Plan_90Days.md   # phase-1 executive framework and scheduling
+    ├── BOT_Agreement.md        # 30-year concession contract with local authorities
+    ├── Covering_Letter.md      # official covering letter to the leadership council
+    ├── Digital_Marketing_Campaign.md  # strategic marketing rollout specifications
+    ├── Economic_Pact.md        # neutrality agreement with military & political factions
+    ├── Free_Zone_Law.md        # internal regulatory framework for moka free zone (mfz)
+    ├── Global_Marketing_LinkedIn.md  # b2b global marketing campaign content
+    ├── Investment_Pitch_Letter.md    # direct strategic letter for regional funds
+    ├── MoU_Global.md           # exclusive technical epc partner memorandum
+    ├── Risk_Management_Plan.md # dynamic matrix for investment protection
+    ├── Sovereign_Mandate.md    # exclusive power of attorney for eng. awsan adel
+    ├── Sovereign_PR_Strategy.md# public relations & community mobilization strategy
+    └── TDF_Urgent_Projects.md  # immediate physical intervention plan for taiz 23 districts
 ```
 
 
@@ -256,23 +269,37 @@ moka-supermax-port-system/
 ---
 
 ```text
-نظام_ميناء_المخا_الفوق_عملاق/
+نظام_ميناء_موكا_الفوق_عملاق_ومحرك_الفصل_المالي_أوسان/
 │
-├── README.md               # وثيقة النظام الرئيسية (تحتوي على الملخص التنفيذي المركز وخريطة تدفق البيانات)
+├── README.md                   # وثيقة النظام الرئيسية (تحتوي على الملخص التنفيذي وخريطة التدفق)
 │
-├── backend/                # النواة البرمجية للمنظومة (ملفات الأتمتة المكتوبة بلغة Python وواجهات البرمجة)
-│   ├── split_engine.py     # خوارزمية الفصل المالي التلقائي المقفلة وغير القابلة للتعديل بنسبة 60/40
-│   └── routing.py          # جسور الربط البرمجي الآمن بين جمارك الميناء وشبكات السويفت البنكية الدولية
+├── backend/                    # النواة البرمجية للمنظومة (ملفات الأتمتة المكتوبة بلغة Python وواجهات البرمجة)
+│   ├── routing.py              # جسور الربط البرمجي الآمن بين جمارك الميناء وشبكات السويفت البنكية الدولية
+│   └── split_engine.py         # خوارزمية الفصل المالي التلقائي المقفلة وغير القابلة للتعديل بنسبة 60/40
 │
-├── security/               # أنظمة التحقق والتشفير السيادي (أكواد الهوية الرقمية والمحافظ المشفرة)
-│   ├── hsm_auth.py         # أكواد ربط وتكامل وحدات الأمان المادية وحماية مفاتيح التوقيع الرقمي
-│   └── id_verify.py        # جسور المصادقة والتحقق التشفيرية المرتبطة بالرقم الوطني 01010305468
+├── security/                   # أنظمة التحقق والتشفير السيادي (أكواد الهوية الرقمية والمحافظ والمواثيق المشفرة)
+│   ├── Governance_Anti_Corruption.md  # ميثاق الحوكمة ومكافحة الفساد الداخلي للشركة القابضة
+│   ├── IP_Sovereign_Protection.md     # بند الملكية الفكرية والسيادة البرمجية والمالية (ملحق قانوني ملزم)
+│   ├── UI_UX_Dashboard_Blueprint.md   # تصميم واجهة المستخدم البرمجية ومخطط لوحة الشفافية الرقمية
+│   ├── hsm_auth.py             # أكواد ربط وتكامل وحدات الأمان المادية وحماية مفاتيح التوقيع الرقمي
+│   └── id_verify.py            # جسور المصادقة والتحقق التشفيرية المرتبطة بالرقم الوطني 01010305468
 │
-└── docs/                   # الملفات القانونية والمواثيق السيادية (الوثائق والاتفاقيات الاستراتيجية للمشروع)
-    ├── BOT_Agreement.md    # عقد الامتياز والشراكة وبناء الأصول وإعادة الملكية مع السلطة المحلية
-    ├── Economic_Pact.md    # ميثاق التحييد الاقتصادي للميناء والمنطقة الحرة الموقع مع الأطراف السياسية والعسكرية
-    └── MoU_Global.md       # مذكرة التفاهم الدولية والشروط الفنية الهندسية مع الشركات العالمية المرشحة
+└── docs/                       # الملفات القانونية والمواثيق السيادية (الوثائق والاتفاقيات الاستراتيجية للمشروع)
+    ├── Action_Plan_90Days.md   # خطة عمل الـ 90 يوماً الأولى (جدول اللقاءات والخطوات التنفيذية)
+    ├── BOT_Agreement.md        # مسودة عقد الشراكة وبناء الأصول وإعادة الملكية مع السلطة المحلية
+    ├── Covering_Letter.md      # خطاب التغطية الرسمي الموجه إلى مجلس القيادة الرئاسي والحكومة
+    ├── Digital_Marketing_Campaign.md  # تصميم واستراتيجية الحملة التسويقية والإعلامية الرقمية الشاملة
+    ├── Economic_Pact.md        # وثيقة ميثاق التحييد الاقتصادي لتعز والمخا (مسودة سيادية)
+    ├── Free_Zone_Law.md        # صياغة اللائحة الداخلية التفصيلية لقانون منطقة المخا الحرة ومجلس إدارتها
+    ├── Global_Marketing_LinkedIn.md  # مواد ومحتوى منشور التسويق الدولي الموجه للشركات العالمية عبر LinkedIn
+    ├── Investment_Pitch_Letter.md    # رسالة المراسلة المباشرة الموجهة للصناديق الخليجية والتنموية
+    ├── MoU_Global.md           # مذكرة التفاهم الدولية والشروط الفنية الهندسية مع الشركات العالمية
+    ├── Risk_Management_Plan.md # خطة إدارة المخاطر والأزمات وحماية الاستثمارات بمحور الميناء
+    ├── Sovereign_Mandate.md    # صيغة التوكيل الرسمي والتفويض التسويقي الحصري والمطلق للمهندس أوسان
+    ├── Sovereign_PR_Strategy.md# استراتيجية العلاقات العامة والاتصال السيادي لتهيئة الرأي العام مجتمعياً
+    └── TDF_Urgent_Projects.md  # تفصيل ومصفوفة مشاريع الـ 40% العاجلة جداً لمديريات تعز الـ 23
 ```
+
 
 ---
 
