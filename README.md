@@ -1,11 +1,3 @@
-
-الملفات التي تُنسخ في المجلد الرئيسي (Repository Root)الملخص التنفيذي المركز (Executive Summary):📄 يُنسخ في مقدمة ملف: README.mdخريطة تدفق البيانات والعمليات في الخلفية (Backend Data-Flow Map):📄 يُنسخ داخل ملف: README.md (مباشرة أسفل الملخص التنفيذي).📁 2. الملفات التي تُنسخ داخل مجلد الوثائق السيادية والقانونية docs/خطاب التغطية الرسمي (Official Covering Letter):📄 اسم الملف: docs/Covering_Letter.mdوثيقة "ميثاق التحييد الاقتصادي لتعز والمخا" (مسودة سيادية):📄 اسم الملف: docs/Economic_Pact.mdمسودة عقد الشراكة وبناء الأصول وإعادة الملكية (BOT Agreement):📄 اسم الملف: docs/BOT_Agreement.mdمذكرة التفاهم الدولية (Memorandum of Understanding - MoU):📄 اسم الملف: docs/MoU_Global.mdصيغة التوكيل الرسمي والتفويض التسويقي الحصري (Sovereign Mandate & Power of Attorney):📄 اسم الملف: docs/Sovereign_Mandate.mdصياغة اللائحة الداخلية التفصيلية لقانون منطقة المخا الحرة ومجلس إدارتها:📄 اسم الملف: docs/Free_Zone_Law.mdتفصيل مشاريع الـ 40% العاجلة جداً لمديريات تعز (وعد الحملة المجتمعية):📄 اسم الملف: docs/TDF_Urgent_Projects.mdخطة عمل الـ 90 يوماً الأولى (90-Day Action Plan):📄 اسم الملف: docs/Action_Plan_90Days.mdاستراتيجية العلاقات العامة والاتصال السيادي (Sovereign PR Strategy):📄 اسم الملف: docs/Sovereign_PR_Strategy.mdتصميم الحملة التسويقية والإعلامية الرقمية الدولية والمحلية:📄 اسم الملف: docs/Digital_Marketing_Campaign.mdمواد ومحتوى الحملة التسويقية الدولية والمحلية (LinkedIn & Institutional B2B):📄 اسم الملف: docs/Global_Marketing_LinkedIn.mdرسالة المراسلة المباشرة الموجهة للصناديق الخليجية (البرنامج السعودي لإعمار اليمن، الهلال الأحمر الإماراتي):📄 اسم الملف: docs/Investment_Pitch_Letter.md📁 3. الملفات التي تُنسخ داخل مجلد التشفير والتحصين السيادي security/بند الملكية الفكرية والسيادة البرمجية والمالية (ملحق قانوني ملزم):📄 اسم الملف: security/IP_Sovereign_Protection.mdميثاق الحوكمة ومكافحة الفساد الداخلي للشركة القابضة:📄 اسم الملف: security/Governance_Anti_Corruption.mdتصميم واجهة المستخدم البرمجية (UI/UX Mockup Blueprint) لوحة الشفافية الرقمية:📄 اسم الملف: security/UI_UX_Dashboard_Blueprint.md
-
-
-
----
-
-
 # 👑 MOKA SUPER-MAX PORT & FREE ZONE SYSTEM (MFZ)
 ### Core Backend Infrastructure, Automated Financial Split Engine (60/40), and Sovereign Security Framework.
 
