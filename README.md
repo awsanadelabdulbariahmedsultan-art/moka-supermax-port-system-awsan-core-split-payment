@@ -56,6 +56,28 @@ To ensure absolute immunity against external cyber threats or administrative ove
 
 ---
 
+```text
+moka-supermax-port-system/
+│
+├── README.md               # Master System Document (الملخص التنفيذي المركز وخريطة تدفق البيانات)
+│
+├── backend/                # Core Python automation scripts & API endpoints (النواة البرمجية للمنظومة)
+│   ├── split_engine.py     # Immutable financial split algorithm 60/40 (خوارزمية الفصل المالي المقفلة)
+│   └── routing.py          # Secure API bridges connecting port customs to SWIFT (جسور الربط البنكي الدولي)
+│
+├── security/               # Cryptographic identity & verification nodes (أنظمة التحقق والتشفير السيادي)
+│   ├── hsm_auth.py         # Hardware Security Module integration codes (أكواد ربط وحدات الأمان المادية)
+│   └── id_verify.py        # Cryptographic link for National ID 01010305468 (نظام التحقق المرتبط بالرقم الوطني)
+│
+└── docs/                   # Sovereign legal documents & strategic frameworks (الملفات القانونية والسيادية)
+    ├── BOT_Agreement.md    # Concession contract with local authorities (عقد بناء الأصول وإعادة الملكية)
+    ├── Economic_Pact.md    # Neutrality agreement with military/political factions (ميثاق التحييد الاقتصادي)
+    └── MoU_Global.md       # Technical EPC memorandum with international partners (مذكرة التفاهم الدولية)
+```
+
+
+---
+
 ## 📂 Repository Structure Guide
 *   **/backend** : Core Python automation scripts and API endpoints, including the automated 60/40 immutable payment splitting algorithm and secure API bridges connecting port customs to banking SWIFT.
 *   **/security** : Cryptographic identity validation systems, Hardware Security Module integration codes, and verification bridges for National ID 01010305468.
@@ -124,6 +146,27 @@ To ensure absolute immunity against external cyber threats or administrative ove
 *   **الإغلاق المالي السيادي وحظر الصرف:** يرفض النظام برمجياً وبشكل قاطع أي حزمة بيانات مالية أو طلب صرف لا يحتوي على التوقيع الإلكتروني المشفر والمولد من رمز الأمان المرتبط حصرياً بـ **الرقم الوطني: 01010305468**. التجاوزات اليدوية، الورقية، أو الشفهية مستحيلة برمجياً بنسبة 100%.
 *   **سجل البلوكشين غير القابل للتعديل:** جميع المعاملات المالية، بمجرد اعتمادها بتوقيع المهندس أوسان عادل التشفيري، يتم تشفيرها (Hashing) وإلحاقها بسلسلة سجلات البلوكشين الخاصة بالمنظومة. أي محاولة لتعديل مدخلات سابقة ستؤدي تلقائياً إلى كسر نزاهة السلسلة التشفيرية، وتجميد النظام المالي للميناء بالكامل، وإرسال إنذار فوري لهيئات التدقيق الدولية.
 *   **قناة التحقق ثنائية التحليل للمطابقة:** تتطلب الموافقة المالية توقيعاً مزدوجاً: مفتاح تشفيري يتم التحقق منه عبر وحدة HSM المادية، متبوعاً بمسح ضوئي عالي الدقة للتوقيع الخطي، والذي يتم تحليله عبر شبكات عصبية اصطناعية للتحقق من أبعاد الميكرو-ضغط البيومتري لليد لضمان الأصالة.
+
+---
+
+```text
+نظام_ميناء_المخا_الفوق_عملاق/
+│
+├── README.md               # وثيقة النظام الرئيسية (تحتوي على الملخص التنفيذي المركز وخريطة تدفق البيانات)
+│
+├── backend/                # النواة البرمجية للمنظومة (ملفات الأتمتة المكتوبة بلغة Python وواجهات البرمجة)
+│   ├── split_engine.py     # خوارزمية الفصل المالي التلقائي المقفلة وغير القابلة للتعديل بنسبة 60/40
+│   └── routing.py          # جسور الربط البرمجي الآمن بين جمارك الميناء وشبكات السويفت البنكية الدولية
+│
+├── security/               # أنظمة التحقق والتشفير السيادي (أكواد الهوية الرقمية والمحافظ المشفرة)
+│   ├── hsm_auth.py         # أكواد ربط وتكامل وحدات الأمان المادية وحماية مفاتيح التوقيع الرقمي
+│   └── id_verify.py        # جسور المصادقة والتحقق التشفيرية المرتبطة بالرقم الوطني 01010305468
+│
+└── docs/                   # الملفات القانونية والمواثيق السيادية (الوثائق والاتفاقيات الاستراتيجية للمشروع)
+    ├── BOT_Agreement.md    # عقد الامتياز والشراكة وبناء الأصول وإعادة الملكية مع السلطة المحلية
+    ├── Economic_Pact.md    # ميثاق التحييد الاقتصادي للميناء والمنطقة الحرة الموقع مع الأطراف السياسية والعسكرية
+    └── MoU_Global.md       # مذكرة التفاهم الدولية والشروط الفنية الهندسية مع الشركات العالمية المرشحة
+```
 
 ---
 
