@@ -5,7 +5,7 @@
 ---
 
 ## 📜 Legal Ownership & Intellectual Property Statement
-*   **Master Developer & Strategist:** AWSAN DEW FOR MARKETING & STRATEGIC SERVICES
+*   **Master Developer & Strategist:** AWSAN DEW FOR MARKETING 
 *   **Intellectual & Cryptographic Property Owner:** Eng. AWSAN ADEL ABDULBARI AHMED SULTAN
 *   **Country of Origin:** Republic of Yemen
 *   **National ID (Criminal & Civil Ledger):** 01010305468
