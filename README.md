@@ -52,6 +52,58 @@ The backend infrastructure processes port and customs revenues in real-time thro
 
 ---
 
+# 🌐 Backend Data-Flow Architecture
+**Designed System:** AWSAN Blockchain Network v1.0  
+**Technological Sovereignty & Exclusive Signature:** Eng. Awsan Adel Abdelbari Ahmed Sultan (ID: 01010305468)  
+
+This engineering blueprint illustrates the path of customs and financial data flow from the collection point at the Port of Mokha and the Free Zone. It also outlines the disbursement restriction mechanism and encrypted verification via your e-wallets and National ID before any funds are liquidated:
+
+## 📊 1. Data-Flow Diagram (DFD)
+
+*   **Step (1):** [ Collection & Customs Gates at the Mokha Smart Port ]  
+    └── Real-time digital financial flow encrypted via TLS 1.3 ──> [ AWSAN Gateway: System Central Connection & Payment Gateway ]
+*   **Step (2):** [ AWSAN Gateway: System Central Connection & Payment Gateway ]  
+    └── Activating the instant automated financial separation algorithm ──> Distribution to two locked accounts:  
+        ├── A. Immediate and locked routing of (60%) ──> [ AWSAN DEW PORT HOLDING: Operational Account ]  
+        └── B. Immediate and locked routing of (40%) ──> [ Taiz Development Fund (TDF) Account: Central Bank - Closed Sovereign Account ]
+*   **Step (3):** [ Upon issuance of any disbursement or financial liquidation request from the accounts ]  
+    └── Mandatory transit through ──> [ WAF: Military-Grade Smart Web Application Firewall ]
+*   **Step (4):** [ Encryption & Dual Sovereign Identity Verification Phase ]  
+    ├── Private Key Verification Path ──> [ Hardware Security Module - HSM ] (5D Private Key Encryption)  
+    └── National ID Verification Path ──> [ National ID Node: 01010305468 ] (Biometric & Forensic Data Matching)
+*   **Step (5):** [ Sending an encrypted authentication notification to your phone and e-wallets ]  
+    └── Activating the Gateway ──> [ Sovereign Authentication App: AWSAN Secure Auth ]
+*   **Step (6):** [ Handwritten Signature + Cryptographic Dual-Key Encrypted Signature ]  
+    └── Final Authentication by ──> [ Approval of Eng. Awsan Adel ]
+*   **Step (7):** [ Final Execution ]  
+    └── Executing the actual financial liquidation + logging the transaction into the Blockchain in an immutable, encrypted format.
+
+---
+
+## 🛠️ 2. Security & Encryption Specs
+
+To guarantee that the system cannot be breached and your signature cannot be bypassed, four advanced software protection layers have been integrated into the Backend:
+
+### 1️⃣ Source Code Obfuscation & Air-Gapping:
+* **Encryption and Obfuscation:** The system's source codes (which drive the port, the Free Zone, and the automated financial separation algorithm) are encrypted and compressed using Advanced Obfuscation techniques to render them completely immune to reverse-engineering by any external party or programmer.
+* **Air-Gapped Infrastructure:** The core servers hosting the project's software kernel are entirely isolated from the public internet. They are deployed in secure, independent server rooms under the physical and civil guardianship of the holding company.
+
+### 2️⃣ Cryptographic Key Standard (Hardware Security Module - HSM):
+* The generation and storage of your electronic signature keys take place exclusively inside physical storage units that are tamper-proof against both physical and digital breaches, compliant with FIPS 140-2 Level 4 certification.
+* The original Private Keys never appear on any screen and are never transmitted over the internet; instead, the digital signing process is executed entirely within the isolated physical chip.
+
+### 3️⃣ Sovereign Blockchain & National ID Ledger Integration:
+* A decentralized distributed private financial ledger (Blockchain Private Ledger) is constructed, where every financial transaction is recorded with a unique cryptographic serial number (Hash) that automatically embeds your targeted National ID (ID: 01010305468).
+* Any attempt to alter the account number, modify amounts, or bypass the signature will automatically cause a "Chain Breakage." This will immediately shut down the financial system of the port and the Free Zone, freeze all balances, and trigger an automated security alert to all regulatory authorities.
+
+### 4️⃣ Multi-Factor Sovereign Approval Protocol:
+* When any executive entity submits a financial disbursement request, the system programmatically rejects it until two simultaneous verification steps are fully met:
+  1. **Electronic Approval:** Entering your encrypted digital signature via your sovereign e-wallets linked to your official, verified phone numbers (00967777852433 // 00967776633003).
+  2. **Scanned Handwritten Approval:** Uploading a digital copy of your physical handwritten signature, where the platform's proprietary AI system verifies the multi-dimensional geometric proportions and millimetric pressure of the signature to ensure its absolute authenticity before routing the transaction to the banks.
+
+
+---
+
 ## 🛠️ Security Framework & System Hardening
 
 To ensure absolute immunity against external cyber threats or administrative overreach, four layers of software hardening are natively implemented:
